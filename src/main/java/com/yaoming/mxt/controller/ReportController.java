@@ -23,6 +23,10 @@ public class ReportController {
 	public ResponseEntity lastmonth(Integer type) {
 
 		
+		
+		
+		
+		
 		return report(3);
 
 	}
