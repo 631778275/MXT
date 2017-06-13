@@ -22,7 +22,6 @@ public class ReportController {
 	@GetMapping("/lastmonth")
 	public ResponseEntity lastmonth(Integer type) {
 
-		
 		return report(3);
 
 	}
